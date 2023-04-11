@@ -10,7 +10,7 @@ sites:
   - name: DomJudge GICIB Diseño y Análisis de Algoritmos 
     url: https://daa-gicib.numa.host
   - name: DomJudge GICIB Metodologías Desarrollo Seguro 
-    url: https://mds-gicib.numa.host
+    url: https://mds-gcib.numa.host
   - name: DomJudge GIS Diseño y Análisis de Algoritmos 
     url: https://daa-gis.numa.host
   - name: DomJudge GIS Introducción a la Programación
