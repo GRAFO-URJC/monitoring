@@ -11,12 +11,14 @@ sites:
     url: https://daa-gicib.numa.host
   - name: DomJudge GICIB Metodologías Desarrollo Seguro 
     url: https://mds-gcib.numa.host
+  - name: CTFd GICIB Metodologías Desarrollo Seguro 
+    url: https://ctf-mds-gcib.numa.host
   - name: DomJudge GIS Diseño y Análisis de Algoritmos 
     url: https://daa-gis.numa.host
-  - name: DomJudge GIS Introducción a la Programación
-    url: https://ip-gis.numa.host
-  - name: DomJudge GII Introducción a la Programación
-    url: https://ip-gii.numa.host
+  #- name: DomJudge GIS Introducción a la Programación
+  #  url: https://ip-gis.numa.host
+  #- name: DomJudge GII Introducción a la Programación
+  #  url: https://ip-gii.numa.host
   - name: DomJudge GIA Introducción a la Programación
     url: https://ip-gia.numa.host
     
@@ -48,3 +50,4 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/15 * * * *"
+  
