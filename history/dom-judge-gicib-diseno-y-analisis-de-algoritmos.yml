@@ -1,7 +1,7 @@
 url: https://daa-gicib.numa.host
-status: down
-code: 502
-responseTime: 3382
-lastUpdated: 2023-09-03T23:01:47.332Z
+status: up
+code: 200
+responseTime: 802
+lastUpdated: 2023-09-04T07:45:38.864Z
 startTime: 2023-04-03T16:21:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
