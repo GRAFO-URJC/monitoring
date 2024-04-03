@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.65%",
     "time": 510,
-    "timeDay": 357,
-    "timeWeek": 464,
-    "timeMonth": 449,
+    "timeDay": 434,
+    "timeWeek": 466,
+    "timeMonth": 451,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2023-11-09": 377,
@@ -31,8 +31,7 @@
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
-      "2023-04-05": 1440,
-      "2023-04-04": 1440
+      "2023-04-05": 1440
     }
   },
   {
@@ -41,16 +40,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/aj-gddv.numa.host.ico",
     "slug": "dom-judge-gddv-algoritmos-para-juegos",
     "status": "up",
-    "uptime": "52.59%",
+    "uptime": "52.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.59%",
-    "time": 2160,
-    "timeDay": 508,
-    "timeWeek": 616,
-    "timeMonth": 627,
-    "timeYear": 2160,
+    "uptimeYear": "52.68%",
+    "time": 2156,
+    "timeDay": 559,
+    "timeWeek": 612,
+    "timeMonth": 624,
+    "timeYear": 2156,
     "dailyMinutesDown": {
       "2024-02-05": 724,
       "2024-02-04": 1440,
@@ -230,8 +229,7 @@
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
-      "2023-04-05": 1440,
-      "2023-04-04": 1440
+      "2023-04-05": 1440
     }
   },
   {
@@ -240,16 +238,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/daa-gicib.numa.host.ico",
     "slug": "dom-judge-gicib-diseno-y-analisis-de-algoritmos",
     "status": "up",
-    "uptime": "84.46%",
+    "uptime": "84.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.46%",
-    "time": 1310,
-    "timeDay": 552,
-    "timeWeek": 641,
-    "timeMonth": 651,
-    "timeYear": 1310,
+    "uptimeYear": "84.49%",
+    "time": 1309,
+    "timeDay": 600,
+    "timeWeek": 628,
+    "timeMonth": 652,
+    "timeYear": 1309,
     "dailyMinutesDown": {
       "2023-11-09": 386,
       "2023-10-19": 466,
@@ -315,8 +313,7 @@
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
-      "2023-04-05": 1440,
-      "2023-04-04": 1440
+      "2023-04-05": 1440
     }
   },
   {
@@ -325,16 +322,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mds-gcib.numa.host.ico",
     "slug": "dom-judge-gicib-metodologias-desarrollo-seguro",
     "status": "up",
-    "uptime": "34.41%",
+    "uptime": "34.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.60%",
-    "uptimeYear": "34.41%",
-    "time": 2559,
-    "timeDay": 706,
-    "timeWeek": 857,
-    "timeMonth": 1380,
-    "timeYear": 2559,
+    "uptimeMonth": "90.89%",
+    "uptimeYear": "34.53%",
+    "time": 2554,
+    "timeDay": 954,
+    "timeWeek": 848,
+    "timeMonth": 1365,
+    "timeYear": 2554,
     "dailyMinutesDown": {
       "2024-03-05": 1126,
       "2024-03-04": 1440,
@@ -576,8 +573,7 @@
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
-      "2023-04-05": 1440,
-      "2023-04-04": 1440
+      "2023-04-05": 1440
     }
   },
   {
@@ -586,18 +582,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctf-mds-gcib.numa.host.ico",
     "slug": "ct-fd-gicib-metodologias-desarrollo-seguro",
     "status": "down",
-    "uptime": "37.92%",
+    "uptime": "37.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.36%",
-    "uptimeYear": "37.92%",
+    "uptimeMonth": "7.08%",
+    "uptimeYear": "37.82%",
     "time": 1951,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 401,
+    "timeMonth": 391,
     "timeYear": 1951,
     "dailyMinutesDown": {
-      "2024-04-02": 14,
+      "2024-04-03": 14,
+      "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
@@ -831,16 +828,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/daa-gis.numa.host.ico",
     "slug": "dom-judge-gis-diseno-y-analisis-de-algoritmos",
     "status": "up",
-    "uptime": "52.35%",
+    "uptime": "52.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.35%",
-    "time": 2191,
-    "timeDay": 742,
-    "timeWeek": 665,
-    "timeMonth": 642,
-    "timeYear": 2191,
+    "uptimeYear": "52.43%",
+    "time": 2187,
+    "timeDay": 558,
+    "timeWeek": 602,
+    "timeMonth": 643,
+    "timeYear": 2187,
     "dailyMinutesDown": {
       "2024-02-05": 678,
       "2024-02-04": 1440,
@@ -1020,8 +1017,7 @@
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
-      "2023-04-05": 1440,
-      "2023-04-04": 1440
+      "2023-04-05": 1440
     }
   },
   {
@@ -1030,16 +1026,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ip-gia.numa.host.ico",
     "slug": "dom-judge-gia-introduccion-a-la-programacion",
     "status": "up",
-    "uptime": "43.82%",
+    "uptime": "43.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "43.82%",
-    "time": 2503,
-    "timeDay": 603,
-    "timeWeek": 722,
-    "timeMonth": 753,
-    "timeYear": 2503,
+    "uptimeYear": "43.92%",
+    "time": 2499,
+    "timeDay": 728,
+    "timeWeek": 726,
+    "timeMonth": 756,
+    "timeYear": 2499,
     "dailyMinutesDown": {
       "2024-01-31": 759,
       "2024-01-30": 1440,
@@ -1248,8 +1244,7 @@
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
-      "2023-04-05": 1440,
-      "2023-04-04": 1440
+      "2023-04-05": 1440
     }
   }
 ]
